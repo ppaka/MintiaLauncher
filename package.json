@@ -1,13 +1,13 @@
 {
-  "name": "mrslauncher",
-  "version": "3.0.3",
-  "productName": "MRS Launcher",
+  "name": "mintialauncher",
+  "version": "0.0.1",
+  "productName": "Mintia Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), peunsu (https://github.com/peunsu)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), peunsu (https://github.com/peunsu), ppaka (https://github.com/ppaka)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/peunsu/MRSLauncher",
+  "homepage": "https://github.com/ppaka/MintiaLauncher",
   "bugs": {
-    "url": "https://github.com/peunsu/MRSLauncher/issues"
+    "url": "https://github.com/ppaka/MintiaLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peunsu/MRSLauncher.git"
+    "url": "git+https://github.com/ppaka/MintiaLauncher.git"
   }
 }
