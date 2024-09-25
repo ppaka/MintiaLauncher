@@ -98,7 +98,7 @@ async function showMainUI(data){
 
         setTimeout(() => {
             $('#loadingContainer').fadeOut(500, () => {
-                $('#loadSpinnerImage').removeClass('rotating')
+                $('#loadSpinnerImage').removeClass('scaling')
             })
         }, 250)
         

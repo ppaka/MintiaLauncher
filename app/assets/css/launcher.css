@@ -3953,16 +3953,16 @@ input:checked + .toggleSwitchSlider:before {
 }
 
 /* Rotating animation for the spinner. */
-@keyframes rotating {
+@keyframes scaling {
     from {
-        transform: rotate(0deg);
+        transform: scale(100%);
     }
     to {
-        transform: rotate(360deg);
+        transform: scale(105%);
     }
 }
 
 /* Class which is applied when the spinner image is spinning. */
-.rotating {
-    animation: rotating 10s linear infinite;
+.scaling {
+    animation: scaling 0.7s linear infinite alternate;
 }
